@@ -1,3 +1,4 @@
+
 # <p align="center"> PORTOFOLIO</p>
 
 # Ruhan Masukuri
@@ -21,7 +22,9 @@ This project conducts analysis and makes an interactive dashboard of the analysi
   <summary>Expand</summary>
   
   ### [Dataset](https://github.com/hanru789/bike_sharing/tree/main/bike_sharing_dataset)
+  
   ### [Analysis](https://github.com/hanru789/bike_sharing/blob/main/Proyek%20Analisis%20Data.ipynb)
+  
   ### [Dashboard](https://bikesharing-s9xhfypjcgcng7yemj6hpq.streamlit.app/)
 </details>
 
@@ -35,17 +38,31 @@ This dataset has 13 csv files that will be explored and analyzed one by one and 
 	
 	
  ### [games.csv](https://github.com/hanru789/NFL-Big-Data-Bowl-2025/blob/main/about-games.ipynb)
+ 
  ### player_play.csv
+ 
  ### players.csv
+ 
  ### plays.csv
+ 
  ### tracking_week_1.csv
+ 
  ### tracking_week_2.csv
+ 
  ### tracking_week_3.csv
+ 
  ### tracking_week_4.csv
+ 
  ### tracking_week_5.csv
+ 
  ### tracking_week_6.csv
+ 
  ### tracking_week_7.csv
+ 
  ### tracking_week_8.csv
+ 
  ### tracking_week_9.csv
+ 
  ### Conclution
+ 
  </details>
