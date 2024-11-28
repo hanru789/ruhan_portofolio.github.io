@@ -21,12 +21,9 @@ This project conducts analysis and makes an interactive dashboard of the analysi
 <details>
   <summary><strong>Expand</strong></summary>
   <ul>
-    <li><a href="https://github.com/hanru789/bike_sharing/tree/main/bike_sharing_dataset">Dataset</a></li>
-    <li>Dataset</li>
+    <li><a href="https://github.com/hanru789/bike_sharing/tree/main/bike_sharing_dataset">Dataset</a>
     <li><a href="https://github.com/hanru789/bike_sharing/blob/main/Proyek%20Analisis%20Data.ipynb">Analysis</a></li>
-    <li>Analysis</li>
-    <li><a href:"https://bikesharing-s9xhfypjcgcng7yemj6hpq.streamlit.app/"></a>Dashboard</li>
-    <li>Dashboard</li>
+    <li><a href="https://bikesharing-s9xhfypjcgcng7yemj6hpq.streamlit.app">Dashboard</a></li>
   </ul>
 </details>
 
