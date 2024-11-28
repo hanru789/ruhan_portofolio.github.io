@@ -23,7 +23,7 @@ This project conducts analysis and makes an interactive dashboard of the analysi
   ### [Dataset](https://github.com/hanru789/bike_sharing/tree/main/bike_sharing_dataset)
   ### [Analysis](https://github.com/hanru789/bike_sharing/blob/main/Proyek%20Analisis%20Data.ipynb)
   ### [Dashboard](https://bikesharing-s9xhfypjcgcng7yemj6hpq.streamlit.app/)
-
+</details>
 
 ## NFL-Big-Data-Bowl-2025
 Ini adalah project data science menggunakan dataset kompetisi NFL Big Data Bowl 2025 yang dapat di download di [kaggle](https://www.kaggle.com/competitions/nfl-big-data-bowl-2025/data?select=games.csv).
@@ -58,3 +58,4 @@ Dataset ini memiliki 13 file csv yang akan dieksplorasi dan analisa satu persatu
 	### tracking_week_9.csv
 
 	### Conclution
+ </details>
