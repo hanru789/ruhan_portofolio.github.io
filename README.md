@@ -1,5 +1,4 @@
-
-# <p align="center"> PORTOFOLIO</p>
+# PORTOFOLIO
 
 # Ruhan Masukuri
 ruhanmasykuri@gmail.com
@@ -21,11 +20,12 @@ This project conducts analysis and makes an interactive dashboard of the analysi
 <details>
   <summary><strong>Expand</strong></summary>
   <ul>
-    <li><a href="https://github.com/hanru789/bike_sharing/tree/main/bike_sharing_dataset">Dataset</a>
+    <li><a href="https://github.com/hanru789/bike_sharing/tree/main/bike_sharing_dataset">Dataset</a></li>
     <li><a href="https://github.com/hanru789/bike_sharing/blob/main/Proyek%20Analisis%20Data.ipynb">Analysis</a></li>
     <li><a href="https://bikesharing-s9xhfypjcgcng7yemj6hpq.streamlit.app">Dashboard</a></li>
   </ul>
 </details>
+
 
 ## NFL Big Data Bowl 2025
 The National Football League (NFL) is back with another Big Data Bowl, where contestants use Next Gen Stats player tracking data to generate actionable, creative, and novel stats. Previous iterations have analyzed running backs, defensive backs, special teams, pass rush plays, and tackling, and have generated metrics that have been used on television and by NFL teams.
