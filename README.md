@@ -25,37 +25,27 @@ This project conducts analysis and makes an interactive dashboard of the analysi
   ### [Dashboard](https://bikesharing-s9xhfypjcgcng7yemj6hpq.streamlit.app/)
 </details>
 
-## NFL-Big-Data-Bowl-2025
-Ini adalah project data science menggunakan dataset kompetisi NFL Big Data Bowl 2025 yang dapat di download di [kaggle](https://www.kaggle.com/competitions/nfl-big-data-bowl-2025/data?select=games.csv).
-Dataset ini memiliki 13 file csv yang akan dieksplorasi dan analisa satu persatu dakemudian dilakukan analisa menyeluruh terhadap seluruh file csv tersebut.
+## NFL Big Data Bowl 2025
+The National Football League (NFL) is back with another Big Data Bowl, where contestants use Next Gen Stats player tracking data to generate actionable, creative, and novel stats. Previous iterations have analyzed running backs, defensive backs, special teams, pass rush plays, and tackling, and have generated metrics that have been used on television and by NFL teams.
+
+This is a data science project using the 2025 NFL Big Data Bowl competition dataset which can be downloaded at [kaggle](https://www.kaggle.com/competitions/nfl-big-data-bowl-2025/data?select=games.csv).
+This dataset has 13 csv files that will be explored and analyzed one by one and then a comprehensive analysis will be carried out on all csv files. You can access the analysis through this:
 <details>
   <summary>Expand</summary>
 	
-  ### [games.csv](https://github.com/hanru789/NFL-Big-Data-Bowl-2025/blob/main/about-games.ipynb)
-
-	### player_play.csv
-
-	### players.csv
-
-	### plays.csv
-
-	### tracking_week_1.csv
-
-	### tracking_week_2.csv
-
-	### tracking_week_3.csv
-
-	### tracking_week_4.csv
-
-	### tracking_week_5.csv
-
-	### tracking_week_6.csv
-
-	### tracking_week_7.csv
-
-	### tracking_week_8.csv
-
-	### tracking_week_9.csv
-
-	### Conclution
+	
+ ### [games.csv](https://github.com/hanru789/NFL-Big-Data-Bowl-2025/blob/main/about-games.ipynb)
+ ### player_play.csv
+ ### players.csv
+ ### plays.csv
+ ### tracking_week_1.csv
+ ### tracking_week_2.csv
+ ### tracking_week_3.csv
+ ### tracking_week_4.csv
+ ### tracking_week_5.csv
+ ### tracking_week_6.csv
+ ### tracking_week_7.csv
+ ### tracking_week_8.csv
+ ### tracking_week_9.csv
+ ### Conclution
  </details>
