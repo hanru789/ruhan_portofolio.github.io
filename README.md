@@ -25,6 +25,27 @@ This project conducts analysis and makes an interactive dashboard of the analysi
 	- [Dashboard](https://bikesharing-s9xhfypjcgcng7yemj6hpq.streamlit.app/)
 </details>
 
+This project conducts analysis and makes an interactive dashboard of the analysis data. You can access the dataset, analysis, and dashboard through these links:
+
+**[Expand to access Dataset, Analysis, and Dashboard](#expand-section)**
+
+### Expand Section:
+- [Dataset](https://github.com/hanru789/bike_sharing/tree/main/bike_sharing_dataset)
+- [Analysis](https://github.com/hanru789/bike_sharing/blob/main/Proyek%20Analisis%20Data.ipynb)
+- [Dashboard](https://bikesharing-s9xhfypjcgcng7yemj6hpq.streamlit.app/)
+
+
+This project conducts analysis and makes an interactive dashboard of the analysis data. You can access the dataset, analysis, and dashboard through this:
+
+<details>
+  <summary><strong>Expand</strong></summary>
+  
+  - [Dataset](https://github.com/hanru789/bike_sharing/tree/main/bike_sharing_dataset)
+  - [Analysis](https://github.com/hanru789/bike_sharing/blob/main/Proyek%20Analisis%20Data.ipynb)
+  - [Dashboard](https://bikesharing-s9xhfypjcgcng7yemj6hpq.streamlit.app/)
+  
+</details>
+
 ## NFL Big Data Bowl 2025
 The National Football League (NFL) is back with another Big Data Bowl, where contestants use Next Gen Stats player tracking data to generate actionable, creative, and novel stats. Previous iterations have analyzed running backs, defensive backs, special teams, pass rush plays, and tackling, and have generated metrics that have been used on television and by NFL teams.
 
