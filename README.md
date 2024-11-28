@@ -1,5 +1,4 @@
-
-# <p align="center"> PORTOFOLIO</p>
+<p align="center"> PORTOFOLIO</p>
 
 # Ruhan Masukuri
 ruhanmasykuri@gmail.com
@@ -18,35 +17,6 @@ a virtual sensor network that can be used for sensing mobility in the city. Henc
 events in the city could be detected via monitoring these data.
 
 This project conducts analysis and makes an interactive dashboard of the analysis data. You can access the dataset, analysis, and dashboard through this: 
-<details>
-  <summary>Expand</summary>
-	- [Dataset](https://github.com/hanru789/bike_sharing/tree/main/bike_sharing_dataset)
-	- [Analysis](https://github.com/hanru789/bike_sharing/blob/main/Proyek%20Analisis%20Data.ipynb)
-	- [Dashboard](https://bikesharing-s9xhfypjcgcng7yemj6hpq.streamlit.app/)
-</details>
-
-This project conducts analysis and makes an interactive dashboard of the analysis data. You can access the dataset, analysis, and dashboard through these links:
-
-**[Expand to access Dataset, Analysis, and Dashboard](#expand-section)**
-
-### Expand Section:
-- [Dataset](https://github.com/hanru789/bike_sharing/tree/main/bike_sharing_dataset)
-- [Analysis](https://github.com/hanru789/bike_sharing/blob/main/Proyek%20Analisis%20Data.ipynb)
-- [Dashboard](https://bikesharing-s9xhfypjcgcng7yemj6hpq.streamlit.app/)
-
-
-This project conducts analysis and makes an interactive dashboard of the analysis data. You can access the dataset, analysis, and dashboard through this:
-
-<details>
-  <summary><strong>Expand</strong></summary>
-  
-  - [Dataset](https://github.com/hanru789/bike_sharing/tree/main/bike_sharing_dataset)
-  - [Analysis](https://github.com/hanru789/bike_sharing/blob/main/Proyek%20Analisis%20Data.ipynb)
-  - [Dashboard](https://bikesharing-s9xhfypjcgcng7yemj6hpq.streamlit.app/)
-  
-</details>
-
-
 <details>
   <summary><strong>Expand</strong></summary>
   <ul>
