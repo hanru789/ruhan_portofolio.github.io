@@ -2,6 +2,7 @@
 
 # Ruhan Masukuri
 ruhanmasykuri@gmail.com
+[linkedin](https://www.linkedin.com/in/ruhan-masykuri-5310a41bb/)
 
 ## Bike Sharing
 Bike sharing systems are new generation of traditional bike rentals where whole process from membership, rental and return 
