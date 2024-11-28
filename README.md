@@ -1,4 +1,5 @@
-<p align="center"> PORTOFOLIO</p>
+
+# <p align="center"> PORTOFOLIO</p>
 
 # Ruhan Masukuri
 ruhanmasykuri@gmail.com
@@ -20,6 +21,23 @@ This project conducts analysis and makes an interactive dashboard of the analysi
 <details>
   <summary><strong>Expand</strong></summary>
   <ul>
+    <li><a href="https://github.com/hanru789/bike_sharing/tree/main/bike_sharing_dataset">Dataset</a></li>
+    <li>Dataset</li>
+    <li><a href="https://github.com/hanru789/bike_sharing/blob/main/Proyek%20Analisis%20Data.ipynb">Analysis</a></li>
+    <li>Analysis</li>
+    <li><a href:"https://bikesharing-s9xhfypjcgcng7yemj6hpq.streamlit.app/"></a>Dashboard</li>
+    <li>Dashboard</li>
+  </ul>
+</details>
+
+## NFL Big Data Bowl 2025
+The National Football League (NFL) is back with another Big Data Bowl, where contestants use Next Gen Stats player tracking data to generate actionable, creative, and novel stats. Previous iterations have analyzed running backs, defensive backs, special teams, pass rush plays, and tackling, and have generated metrics that have been used on television and by NFL teams.
+
+This is a data science project using the 2025 NFL Big Data Bowl competition dataset which can be downloaded at [kaggle](https://www.kaggle.com/competitions/nfl-big-data-bowl-2025/data?select=games.csv).
+This dataset has 13 csv files that will be explored and analyzed one by one and then a comprehensive analysis will be carried out on all csv files. You can access the analysis through this:
+<details>
+  <summary><strong>Expand</strong></summary>
+  <ul>
     <li><a href="https://github.com/hanru789/NFL-Big-Data-Bowl-2025/blob/main/about-games.ipynb">games.csv</a></li>
     <li>player_play.csv</li>
     <li>players.csv</li>
@@ -36,44 +54,3 @@ This project conducts analysis and makes an interactive dashboard of the analysi
     <li>Conclusion</li>
   </ul>
 </details>
-
-
-
-## NFL Big Data Bowl 2025
-The National Football League (NFL) is back with another Big Data Bowl, where contestants use Next Gen Stats player tracking data to generate actionable, creative, and novel stats. Previous iterations have analyzed running backs, defensive backs, special teams, pass rush plays, and tackling, and have generated metrics that have been used on television and by NFL teams.
-
-This is a data science project using the 2025 NFL Big Data Bowl competition dataset which can be downloaded at [kaggle](https://www.kaggle.com/competitions/nfl-big-data-bowl-2025/data?select=games.csv).
-This dataset has 13 csv files that will be explored and analyzed one by one and then a comprehensive analysis will be carried out on all csv files. You can access the analysis through this:
-<details>
-  <summary>Expand</summary>
-	
-	
- ### [games.csv](https://github.com/hanru789/NFL-Big-Data-Bowl-2025/blob/main/about-games.ipynb)
- 
- ### player_play.csv
- 
- ### players.csv
- 
- ### plays.csv
- 
- ### tracking_week_1.csv
- 
- ### tracking_week_2.csv
- 
- ### tracking_week_3.csv
- 
- ### tracking_week_4.csv
- 
- ### tracking_week_5.csv
- 
- ### tracking_week_6.csv
- 
- ### tracking_week_7.csv
- 
- ### tracking_week_8.csv
- 
- ### tracking_week_9.csv
- 
- ### Conclution
- 
- </details>
