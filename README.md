@@ -20,12 +20,9 @@ events in the city could be detected via monitoring these data.
 This project conducts analysis and makes an interactive dashboard of the analysis data. You can access the dataset, analysis, and dashboard through this: 
 <details>
   <summary>Expand</summary>
-  
-  ### [Dataset](https://github.com/hanru789/bike_sharing/tree/main/bike_sharing_dataset)
-  
-  ### [Analysis](https://github.com/hanru789/bike_sharing/blob/main/Proyek%20Analisis%20Data.ipynb)
-  
-  ### [Dashboard](https://bikesharing-s9xhfypjcgcng7yemj6hpq.streamlit.app/)
+	- [Dataset](https://github.com/hanru789/bike_sharing/tree/main/bike_sharing_dataset)
+	- [Analysis](https://github.com/hanru789/bike_sharing/blob/main/Proyek%20Analisis%20Data.ipynb)
+	- [Dashboard](https://bikesharing-s9xhfypjcgcng7yemj6hpq.streamlit.app/)
 </details>
 
 ## NFL Big Data Bowl 2025
