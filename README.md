@@ -46,6 +46,29 @@ This project conducts analysis and makes an interactive dashboard of the analysi
   
 </details>
 
+
+<details>
+  <summary><strong>Expand</strong></summary>
+  <ul>
+    <li><a href="https://github.com/hanru789/NFL-Big-Data-Bowl-2025/blob/main/about-games.ipynb">games.csv</a></li>
+    <li>player_play.csv</li>
+    <li>players.csv</li>
+    <li>plays.csv</li>
+    <li>tracking_week_1.csv</li>
+    <li>tracking_week_2.csv</li>
+    <li>tracking_week_3.csv</li>
+    <li>tracking_week_4.csv</li>
+    <li>tracking_week_5.csv</li>
+    <li>tracking_week_6.csv</li>
+    <li>tracking_week_7.csv</li>
+    <li>tracking_week_8.csv</li>
+    <li>tracking_week_9.csv</li>
+    <li>Conclusion</li>
+  </ul>
+</details>
+
+
+
 ## NFL Big Data Bowl 2025
 The National Football League (NFL) is back with another Big Data Bowl, where contestants use Next Gen Stats player tracking data to generate actionable, creative, and novel stats. Previous iterations have analyzed running backs, defensive backs, special teams, pass rush plays, and tackling, and have generated metrics that have been used on television and by NFL teams.
 
