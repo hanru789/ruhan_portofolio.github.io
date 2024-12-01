@@ -4,6 +4,32 @@
 ruhanmasykuri@gmail.com
 [linkedin](https://www.linkedin.com/in/ruhan-masykuri-5310a41bb/)
 
+## NFL Big Data Bowl 2025
+The National Football League (NFL) is back with another Big Data Bowl, where contestants use Next Gen Stats player tracking data to generate actionable, creative, and novel stats. Previous iterations have analyzed running backs, defensive backs, special teams, pass rush plays, and tackling, and have generated metrics that have been used on television and by NFL teams.
+
+This is a data science project using the 2025 NFL Big Data Bowl competition dataset which can be downloaded at [kaggle](https://www.kaggle.com/competitions/nfl-big-data-bowl-2025/data?select=games.csv).
+This dataset has 13 csv files that will be explored and analyzed one by one and then a comprehensive analysis will be carried out on all csv files. You can access the analysis through this:
+<details>
+  <summary><strong>Expand</strong></summary>
+  <ul>
+    <li><a href="https://github.com/hanru789/NFL-Big-Data-Bowl-2025/blob/main/about-games.ipynb">games.csv</a></li>
+    <li><a href="https://github.com/hanru789/NFL-Big-Data-Bowl-2025/blob/main/about-players.ipynb">players.csv</a></li>
+    <li>player_play.csv</li>
+    <li>plays.csv</li>
+    <li>tracking_week_1.csv</li>
+    <li>tracking_week_2.csv</li>
+    <li>tracking_week_3.csv</li>
+    <li>tracking_week_4.csv</li>
+    <li>tracking_week_5.csv</li>
+    <li>tracking_week_6.csv</li>
+    <li>tracking_week_7.csv</li>
+    <li>tracking_week_8.csv</li>
+    <li>tracking_week_9.csv</li>
+    <li>Conclusion</li>
+  </ul>
+</details>
+
+
 ## Bike Sharing
 Bike sharing systems are new generation of traditional bike rentals where whole process from membership, rental and return 
 back has become automatic. Through these systems, user is able to easily rent a bike from a particular position and return 
@@ -28,27 +54,3 @@ This project conducts analysis and makes an interactive dashboard of the analysi
 </details>
 
 
-## NFL Big Data Bowl 2025
-The National Football League (NFL) is back with another Big Data Bowl, where contestants use Next Gen Stats player tracking data to generate actionable, creative, and novel stats. Previous iterations have analyzed running backs, defensive backs, special teams, pass rush plays, and tackling, and have generated metrics that have been used on television and by NFL teams.
-
-This is a data science project using the 2025 NFL Big Data Bowl competition dataset which can be downloaded at [kaggle](https://www.kaggle.com/competitions/nfl-big-data-bowl-2025/data?select=games.csv).
-This dataset has 13 csv files that will be explored and analyzed one by one and then a comprehensive analysis will be carried out on all csv files. You can access the analysis through this:
-<details>
-  <summary><strong>Expand</strong></summary>
-  <ul>
-    <li><a href="https://github.com/hanru789/NFL-Big-Data-Bowl-2025/blob/main/about-games.ipynb">games.csv</a></li>
-    <li>player_play.csv</li>
-    <li>players.csv</li>
-    <li>plays.csv</li>
-    <li>tracking_week_1.csv</li>
-    <li>tracking_week_2.csv</li>
-    <li>tracking_week_3.csv</li>
-    <li>tracking_week_4.csv</li>
-    <li>tracking_week_5.csv</li>
-    <li>tracking_week_6.csv</li>
-    <li>tracking_week_7.csv</li>
-    <li>tracking_week_8.csv</li>
-    <li>tracking_week_9.csv</li>
-    <li>Conclusion</li>
-  </ul>
-</details>
