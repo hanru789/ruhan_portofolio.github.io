@@ -14,8 +14,8 @@ This dataset has 13 csv files that will be explored and analyzed one by one and 
   <ul>
     <li><a href="https://github.com/hanru789/NFL-Big-Data-Bowl-2025/blob/main/about-games.ipynb">games.csv</a></li>
     <li><a href="https://github.com/hanru789/NFL-Big-Data-Bowl-2025/blob/main/about-players.ipynb">players.csv</a></li>
+    <li><a href="https://www.kaggle.com/code/hanru789/about-plays?scriptVersionId=212405139"> plays.csv</a></li>
     <li>player_play.csv</li>
-    <li>plays.csv</li>
     <li>tracking_week_1.csv</li>
     <li>tracking_week_2.csv</li>
     <li>tracking_week_3.csv</li>
