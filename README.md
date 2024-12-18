@@ -53,4 +53,17 @@ This project conducts analysis and makes an interactive dashboard of the analysi
   </ul>
 </details>
 
+## Student Study Result Prediction
+This project was conducted to create a model that can predict the possibility of student learning outcomes at school. School is a place where students study intensively, so school success does not depend only on student activities during class hours. Based on research, it is known that breakfast has a significant effect on student concentration during class hours 1. In addition, student background, student activities outside the school schedule, and various other things certainly have their own correlations with students' school achievements.
+
+This project needs to be done because the resulting model can predict how students can achieve their achievements at school. By knowing this, it is hoped that students and their families can evaluate and improve things that need to be improved so that student learning outcomes can increase.
+<a href="https://github.com/hanru789/Student-Study-Result-Prediction">Read more..</a>
+
+## <a href="https://github.com/hanru789/books-recomendation/blob/main/Books_recomendation.ipynb">Books Recomendation</a>
+
+## <a href="https://github.com/hanru789/books-recomendation/blob/main/Image_clasification.ipynb">Image Clasification</a>
+
+## <a href="https://github.com/hanru789/books-recomendation/blob/main/Weather_prediction.ipynb">Weather Prediction</a>
+
+## <a href="https://github.com/hanru789/books-recomendation/blob/main/emotion_clasification.ipynb">Emotion Clasification</a>
 
