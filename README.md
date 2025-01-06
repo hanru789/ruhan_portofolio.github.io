@@ -4,6 +4,18 @@
 ruhanmasykuri@gmail.com
 [linkedin](https://www.linkedin.com/in/ruhan-masykuri-5310a41bb/)
 
+## NFL-POSITIONING TRAINING ASISTANCE
+This paper introduces a novel approach for evaluating NFL strategies through AI-driven simulation and analysis, emphasizing third-down scenarios and pre-snap data. By employing a Convolutional Neural Network (CNN) model, the research aims to predict the success of specific formations, providing coaches and players with real-time insights for tactical decision-making. The model primarily focuses on player positioning and formation evaluation, excluding other factors to enhance its applicability in strategy optimization.
+
+This project conducts analysis and makes an interactive application of the CNN-Model. You can access the  this: 
+<details>
+  <summary><strong>Expand</strong></summary>
+  <ul>
+    <li><a href="https://github.com/hanru789/NFL-POSITIONING-TRAINING-ASISTANCE">Analysis</a></li>
+    <li><a href="https://nfl-big-data.streamlit.app/">Application</a></li>
+  </ul>
+</details>
+
 ## NFL Big Data Bowl 2025
 The National Football League (NFL) is back with another Big Data Bowl, where contestants use Next Gen Stats player tracking data to generate actionable, creative, and novel stats. Previous iterations have analyzed running backs, defensive backs, special teams, pass rush plays, and tackling, and have generated metrics that have been used on television and by NFL teams.
 
