@@ -228,6 +228,52 @@
             <h2 class="text-3xl font-bold text-center mb-16 text-gray-800">Featured Projects</h2>
             
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8" id="projects-container">
+		<!-- Project x (Visible) -->
+		<div class="project-card bg-white rounded-xl overflow-hidden shadow-md transition duration-300">
+		    <!-- Gambar Utama -->
+		    <div class="h-48 overflow-hidden cursor-pointer project-gallery" 
+		         data-images='[
+		            "image/flip_review_sentiment/1.png",
+		            "image/flip_review_sentiment/2.png",
+		            "image/flip_review_sentiment/3.png",
+		            "image/flip_review_sentiment/4.png",
+		            "image/flip_review_sentiment/5.png"
+		         ]'>
+		        <img src="image/flip_review_sentiment/head_flip_sentiment.png" 
+		             alt="Sentiment Analysis" class="w-full h-full object-cover">
+		    </div>
+		
+		    <!-- Thumbnail Gambar Tambahan -->
+		    <div class="flex justify-start items-center gap-2 px-4 py-2">
+		        <img src="image/flip_review_sentiment/1.png" alt="Thumbnail 1" class="h-12 w-auto rounded cursor-pointer">
+		        <img src="image/flip_review_sentiment/2.png" alt="Thumbnail 2" class="h-12 w-auto rounded cursor-pointer">
+		        <img src="image/flip_review_sentiment/3.png" alt="Thumbnail 3" class="h-12 w-auto rounded cursor-pointer">
+		        <img src="image/flip_review_sentiment/4.png" alt="Thumbnail 4" class="h-12 w-auto rounded cursor-pointer">
+		        <img src="image/flip_review_sentiment/5.png" alt="Thumbnail 5" class="h-12 w-auto rounded cursor-pointer">
+		    </div>
+		
+		    <!-- Konten -->
+		    <div class="p-6">
+		        <div class="flex justify-between items-center mb-3">
+		            <h3 class="text-xl font-semibold text-gray-800">Flip Sentiment Analysis</h3>
+		            <span class="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">NLP</span>
+		        </div>
+		        <p class="text-gray-600 mb-4">
+		            Build interactive Dashboard and Machine Learning sentiment model with 91% accuracy.
+		        </p>
+		        <div class="flex flex-wrap gap-2 mb-4">
+		            <span class="bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded">Python</span>
+		            <span class="bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded">Nltk</span>
+		            <span class="bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded">Sastrawi</span>
+		            <span class="bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded">Tableau</span>
+		            <span class="bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded">DecisionTree</span>
+		        </div>
+		        <a href="https://github.com/hanru789/flip_review_sentiment" class="text-[#3B82F6] hover:text-[#1F2937] font-medium flex items-center">
+		            View Details <i class="fas fa-arrow-right ml-2"></i>
+		        </a>
+		    </div>
+		</div>
+
                 <!-- Project 1 (Visible) -->
                 <div class="project-card bg-white rounded-xl overflow-hidden shadow-md transition duration-300">
                     <div class="h-48 overflow-hidden cursor-pointer project-gallery" 
@@ -261,6 +307,7 @@
                         </a>
                     </div>
                 </div>
+		
                 
                 <!-- Project 2 -->
                 <div class="project-card bg-white rounded-xl overflow-hidden shadow-md transition duration-300">
