@@ -88,24 +88,5 @@ if st.button("Kirim"):
     st.success(f"Terima kasih, {name}! Pesan Anda telah diterima.")
 
 
-import nltk
-nltk.download('punkt_tab')
-nltk.download('stopwords')
-# Membersihkan teks dan menyimpannya di kolom 'text_clean'
-review = review.apply(cleaningText)
 
-# Mengubah huruf dalam teks menjadi huruf kecil dan menyimpannya di 'text_casefoldingText'
-review = review.apply(casefoldingText)
-
-# Mengganti kata-kata slang dengan kata-kata standar dan menyimpannya di 'text_slangwords'
-review = review.apply(fix_slangwords)
-
-# Memecah teks menjadi token (kata-kata) dan menyimpannya di 'text_tokenizingText'
-review = review.apply(tokenizingText)
-
-# Menghapus kata-kata stop (kata-kata umum) dan menyimpannya di 'text_stopword'
-review = review.apply(filteringText)
-
-# Menggabungkan token-token menjadi kalimat dan menyimpannya di 'text_akhir'
-review = review.apply(toSentence)
 
