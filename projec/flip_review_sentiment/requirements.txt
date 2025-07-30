@@ -1,8 +1,1 @@
-pandas>=1.0
-numpy>=1.18
-matplotlib>=3.1
-seaborn>=0.10
-sastrawi>=1.0.1
-nltk>=3.5
-scikit-learn>=0.22
-requests>=2.22
+
