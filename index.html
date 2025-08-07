@@ -228,6 +228,46 @@
             <h2 class="text-3xl font-bold text-center mb-16 text-gray-800">Featured Projects</h2>
             
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8" id="projects-container">
+		<!-- Project -3 (Visible) -->
+		<div class="project-card bg-white rounded-xl overflow-hidden shadow-md transition duration-300">
+		    <!-- Gambar Utama -->
+		    <div class="h-48 overflow-hidden cursor-pointer project-gallery" 
+		         data-images='[
+		            "image/super_store_dashboard/1.png",
+			    "image/super_store_dashboard/2.png",
+			    "image/super_store_dashboard/3.png",
+			    "image/super_store_dashboard/4.png",
+		         ]'>
+		        <img src="image/super_store_dashboard/1.png" 
+		             alt="Sentiment Analysis" class="w-full h-full object-cover">
+		    </div>
+		
+		    <!-- Thumbnail Gambar Tambahan -->
+		    <div class="flex justify-start items-center gap-2 px-4 py-2">
+		        <img src="image/super_store_dashboard/2.jpg" alt="Thumbnail 1" class="h-12 w-auto rounded cursor-pointer">
+		        <img src="image/super_store_dashboard/3.jpg" alt="Thumbnail 2" class="h-12 w-auto rounded cursor-pointer">
+		        <img src="image/super_store_dashboard/4.jpg" alt="Thumbnail 3" class="h-12 w-auto rounded cursor-pointer">
+		    </div>
+		
+		    <!-- Konten -->
+		    <div class="p-6">
+		        <div class="flex justify-between items-center mb-3">
+		            <h3 class="text-xl font-semibold text-gray-800">Super Store Lack Profit Analysis Dashboard</h3>
+		            <span class="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">DataAnalysis</span>
+		        </div>
+		        <p class="text-gray-600 mb-4">
+		            An interactive dashboard of the Super Store dataset was generated using Tableau. The summary indicates that some states have strong sales but low profits, such as Texas, Illinois, and Ohio. Focusing on Texas, which has the highest sales among these low-profit states, the issue primarily comes from the Consumer Segment, the Standard Class shipping mode, the Office Supplies category, and the Binders sub-category. To address this unprofitable situation, one potential strategy is to bundle the most profitable and the least profitable items sold in Texas into a single package. Based on the data, these items are Binders and Paper.
+		        </p>
+		        <div class="flex flex-wrap gap-2 mb-4">
+		            <span class="bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded">Tableau</span>
+			    <span class="bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded">Dashboard</span>
+		            <span class="bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded">RetailAnalysis</span>
+		            <span class="bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded">Visualization</span>		        </div>
+		        <a href="https://public.tableau.com/app/profile/ruhan.masykuri/viz/DashboardSuperStore_17543840034270/Story1" class="text-[#3B82F6] hover:text-[#1F2937] font-medium flex items-center">
+		            View Details <i class="fas fa-arrow-right ml-2"></i>
+		        </a>
+		    </div>
+		</div>
 		<!-- Project -2 (Visible) -->
 		<div class="project-card bg-white rounded-xl overflow-hidden shadow-md transition duration-300">
 		    <!-- Gambar Utama -->
@@ -595,3 +635,4 @@
 </style>
 </body>
 </html>
+
